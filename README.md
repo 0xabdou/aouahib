@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aouahib&show_icons=true&theme=dark)
+
+
+
+
 <!--
 **aouahib/aouahib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
