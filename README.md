@@ -1,10 +1,7 @@
-### Hi there 👋
 
-Type-safe Software Developer 🚀
-
-Tech Writer ✍️
-
-Catch me playing with your DOM 🔥
+- 🚀 Type-safe Software Developer
+- ✍️ Tech Writer 
+- 🔥 Catch me playing with your DOM 
 
 
 <!--
