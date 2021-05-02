@@ -1,6 +1,6 @@
 
 - 🚀 Type-safe Software Developer
-- ✍️ Tech Writer (checkout [dev.to/aouahib](https://dev.to/aouahib))
+- ✍️ Tech Writer (check out [dev.to/aouahib](https://dev.to/aouahib))
 
 
 <!--
