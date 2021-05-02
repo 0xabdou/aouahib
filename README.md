@@ -1,7 +1,6 @@
 
 - 🚀 Type-safe Software Developer
 - ✍️ Tech Writer 
-- 🔥 Catch me playing with your DOM 
 
 
 <!--
