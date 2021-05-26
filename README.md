@@ -1,6 +1,7 @@
 
-- 🚀 Type-safe Software Developer
-- ✍️ Tech Writer (check out [dev.to/aouahib](https://dev.to/aouahib))
+- 🚀  Type-safe Software Developer
+- ✍️  Tech Writer
+- 🌐  check out [abdou.dev](https://www.abdou.dev/)
 
 
 <!--
