@@ -1,7 +1,7 @@
 
 - 🚀  Type-safe Software Developer
-- ✍️  Tech Writer
-- 🌐  check out [abdou.dev](https://www.abdou.dev/)
+- ✍️  Tech Content Creator
+- 🌐  [abdou.dev](https://www.abdou.dev/)
 
 
 <!--
